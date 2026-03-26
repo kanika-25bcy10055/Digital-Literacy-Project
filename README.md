@@ -76,7 +76,7 @@ The portfolio includes **five main tasks**, each building an essential skill in 
 
 ## 📊 Task 1 – Digital Literacy Awareness Infographic
 
-📁 Folder: `task-1-presentation/`
+📁 File: `task-01/`
 
 **Objective:** Create a one-page infographic explaining **digital literacy** and its importance.  
 
@@ -94,7 +94,7 @@ The portfolio includes **five main tasks**, each building an essential skill in 
 
 **Infographic Preview:**
 
-![Digital Literacy Infographic](task-1-presentation/infographic.png)
+![Digital Literacy Infographic](Task-01.png)
 
 > The infographic visually summarizes key digital literacy concepts for easy understanding.
 
@@ -123,13 +123,13 @@ The portfolio includes **five main tasks**, each building an essential skill in 
 **Platform Previews:**
 
 GitHub:  
-![GitHub Profile](task-2-portfolio/github-profile.png)  
+![GitHub Profile](task-2-portfolio/task-2-portfolio/Github)  
 
 LinkedIn:  
-![LinkedIn Profile](task-2-portfolio/linkedin-profile.png)  
+![LinkedIn Profile](task-2-portfolio/task-2-portfolio/LinkedIn)  
 
 Kaggle:  
-![Kaggle Profile](task-2-portfolio/kaggle-profile.png)  
+![Kaggle Profile](task-2-portfolio/task-2-portfolio/Kaggle)  
 
 > These platforms showcase my **projects, skills, and professional presence**.
 
@@ -151,7 +151,7 @@ Kaggle:
 * Improved problem-solving skills  
 
 **Screenshot:**  
-![Coding Challenge](task-3-platforms/coding-challenge.png)
+![Coding Challenge](task-3-platforms/task-3-platforms)
 
 ---
 
@@ -163,9 +163,7 @@ Kaggle:
 * Question Types: Multiple Choice, Short Answer  
 
 **Google Form Preview:**  
-![Google Form](task-3-platforms/google-form.png)  
-**Response Spreadsheet Preview:**  
-![Form Responses](task-3-platforms/google-form-responses.png)  
+![Google Form](https://forms.gle/oQHS3MSkefkZ4y1B6)  
 
 **Purpose:** Assess students’ knowledge of **digital literacy concepts**.
 
