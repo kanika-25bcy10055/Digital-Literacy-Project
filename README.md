@@ -123,13 +123,13 @@ The portfolio includes **five main tasks**, each building an essential skill in 
 **Platform Previews:**
 
 GitHub:  
-![GitHub Profile](task-2-portfolio/task-2-portfolio/Github)  
+![GitHub Profile](task-2-portfolio/task-2-portfolio/Github profile.png)  
 
 LinkedIn:  
-![LinkedIn Profile](task-2-portfolio/task-2-portfolio/LinkedIn)  
+![LinkedIn Profile](task-2-portfolio/task-2-portfolio/LinkedIn profile.png)  
 
 Kaggle:  
-![Kaggle Profile](task-2-portfolio/task-2-portfolio/Kaggle)  
+![Kaggle Profile](task-2-portfolio/task-2-portfolio/Kaggle profile.png)  
 
 > These platforms showcase my **projects, skills, and professional presence**.
 
