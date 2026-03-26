@@ -1,0 +1,55 @@
+╔══════════════════════════════════════╗
+        TASK 5: CYBERCRIME AWARENESS
+╚══════════════════════════════════════╝
+
+────────────────────────────
+PART A – CASE STUDY: PHISHING ATTACK
+────────────────────────────
+
+Phishing is a cybercrime where attackers trick individuals into revealing sensitive information such as passwords, bank details, or personal data. It usually happens through emails, messages, or fake websites that appear legitimate. 
+
+• How it happens (step-by-step):
+  1. The victim receives an email or message claiming to be from a trusted source, e.g., a bank, college portal, or social media.
+  2. The message creates urgency: “Your account will be blocked” or “You have won a prize.”
+  3. The victim clicks the link, which redirects to a fake login page that looks real.
+  4. The victim enters credentials or other sensitive information.
+  5. Attackers capture this data to steal money, commit identity theft, or access other accounts.
+
+• Who is targeted:
+  College students are common targets due to frequent online activity, limited awareness of scams, and heavy reliance on UPI and digital wallets.
+
+• Consequences:
+  Victims may lose money, have personal information misused, face unauthorized transactions, and suffer reputational damage. Recovery is often slow and stressful, requiring reporting to banks and cybercrime authorities.
+
+Source: Adapted from National Cyber Crime Awareness resources (cybercrime.gov.in)
+
+────────────────────────────
+PART B – STAY SAFE ONLINE CHECKLIST
+────────────────────────────
+
+✔ Always verify the sender’s email address before clicking any links.  
+✔ Avoid clicking on suspicious links or attachments in messages.  
+✔ Use strong, unique passwords for all online accounts.  
+✔ Enable two-factor authentication (2FA) for email, social media, and banking accounts.  
+✔ Regularly check UPI and bank account statements for unauthorized transactions.  
+✔ Do not share OTPs, PINs, or password details with anyone, even friends.  
+✔ Keep your devices updated with the latest security patches and antivirus software.  
+✔ Be cautious while sharing personal information on social media.  
+✔ Financial safety tips:
+   • Use only official UPI apps.  
+   • Enable transaction alerts for all digital payments.  
+✔ Report cybercrime immediately:
+   • National Cyber Crime Portal: https://cybercrime.gov.in  
+   • Helpline: 1930  
+
+────────────────────────────
+PROJECT REFLECTION
+────────────────────────────
+
+While researching phishing attacks, I was most surprised by how convincing fake messages can be, even mimicking official bank and college communications perfectly. I realized attackers exploit human psychology, such as urgency and trust, more than technical weaknesses. Many students unknowingly share critical information because a message appears genuine.  
+
+As a result, I will **never click links in emails or messages without verifying the source**. I will also enable two-factor authentication for all important accounts and regularly monitor my digital transactions. These proactive steps can significantly reduce the risk of phishing and online fraud, keeping me and my peers safer online.
+
+╔══════════════════════════════════════╗
+                END OF TASK 5
+╚══════════════════════════════════════╝S
